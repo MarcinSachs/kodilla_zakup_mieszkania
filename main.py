@@ -68,4 +68,4 @@ plt.ylabel('Kwota (PLN)')
 plt.legend()
 plt.grid(True)
 plt.show()
-# output:
+
